@@ -1,6 +1,7 @@
 import modulos.camper as camper
-
+import modulos.trainer as trainer
 camper.menu()
+
 
 # data = ["Hola","J", "Como Esra", "Bien Rey"]
 # for i,val in enumerate(sorted(data)):
